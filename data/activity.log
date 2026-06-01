@@ -3,3 +3,4 @@
 [2026-06-01T12:15:16.000Z] test: add unit coverage for edge-case parser states (#3/10)
 [2026-06-01T13:19:57.000Z] fix: handle null pointer check in payload serializer (#4/10)
 [2026-06-01T14:22:27.000Z] fix: prevent race condition in async buffer queue (#5/10)
+[2026-06-01T15:26:28.000Z] chore: clean up deprecated helper functions (#6/10)
