@@ -19,3 +19,4 @@
 [2026-06-02T19:48:23.000Z] chore: bump minor dependency patches and lockfile (#9/9)
 [2026-06-03T10:16:25.000Z] refactor: decouple configuration loader from runtime core (#1/8)
 [2026-06-03T11:37:43.000Z] fix: handle null pointer check in payload serializer (#2/8)
+[2026-06-03T13:03:46.000Z] perf: debounce high-frequency state update dispatchers (#3/8)
