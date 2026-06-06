@@ -42,3 +42,4 @@
 [2026-06-05T17:25:09.000Z] fix: prevent race condition in async buffer queue (#7/9)
 [2026-06-05T18:34:27.000Z] docs: clarify deployment environment variable requirements (#8/9)
 [2026-06-05T19:48:37.000Z] fix: handle null pointer check in payload serializer (#9/9)
+[2026-06-06T10:17:52.000Z] fix: handle null pointer check in payload serializer (#1/8)
