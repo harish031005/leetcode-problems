@@ -67,3 +67,4 @@
 [2026-06-08T12:32:28.000Z] refactor: extract reusable validator utility methods (#3/9)
 [2026-06-08T13:45:37.000Z] refactor: extract reusable validator utility methods (#4/9)
 [2026-06-08T14:57:18.000Z] perf: reduce memory allocation in matrix computation (#5/9)
+[2026-06-08T16:08:16.000Z] chore: clean up deprecated helper functions (#6/9)
