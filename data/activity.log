@@ -79,3 +79,4 @@
 [2026-06-09T14:28:30.000Z] perf: debounce high-frequency state update dispatchers (#6/12)
 [2026-06-09T15:21:05.000Z] feat: implement adaptive caching layer for remote sync (#7/12)
 [2026-06-09T16:18:18.000Z] refactor: modularize repository sync orchestrator (#8/12)
+[2026-06-09T17:14:49.000Z] fix: graceful fallback on upstream rate limiting (#9/12)
