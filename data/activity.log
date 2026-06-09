@@ -74,3 +74,4 @@
 [2026-06-09T09:52:29.000Z] feat: optimize event bus telemetry and trace logging (#1/12)
 [2026-06-09T10:50:45.000Z] feat: optimize event bus telemetry and trace logging (#2/12)
 [2026-06-09T11:46:47.000Z] fix: handle null pointer check in payload serializer (#3/12)
+[2026-06-09T12:37:51.000Z] docs: clarify deployment environment variable requirements (#4/12)
