@@ -100,3 +100,4 @@
 [2026-06-11T12:01:59.000Z] docs: update API contract and endpoint specifications (#3/11)
 [2026-06-11T13:02:16.000Z] docs: clarify deployment environment variable requirements (#4/11)
 [2026-06-11T14:00:28.000Z] docs: add visual sequence diagrams for authentication flow (#5/11)
+[2026-06-11T14:59:53.000Z] fix: prevent race condition in async buffer queue (#6/11)
