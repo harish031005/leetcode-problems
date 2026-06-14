@@ -124,3 +124,4 @@
 [2026-06-13T18:32:36.000Z] feat: implement adaptive caching layer for remote sync (#8/9)
 [2026-06-13T19:46:43.000Z] refactor: decouple configuration loader from runtime core (#9/9)
 [2026-06-14T10:07:44.000Z] fix: prevent race condition in async buffer queue (#1/10)
+[2026-06-14T11:06:51.000Z] fix: resolve timezone offset discrepancy in scheduler (#2/10)
