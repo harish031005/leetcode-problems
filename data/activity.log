@@ -132,3 +132,4 @@
 [2026-06-14T16:33:20.000Z] docs: add visual sequence diagrams for authentication flow (#7/10)
 [2026-06-14T17:41:01.000Z] test: add unit coverage for edge-case parser states (#8/10)
 [2026-06-14T18:42:56.000Z] style: enforce consistent lint formatting across modules (#9/10)
+[2026-06-14T19:48:14.000Z] refactor: decouple configuration loader from runtime core (#10/10)
