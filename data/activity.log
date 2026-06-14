@@ -126,3 +126,4 @@
 [2026-06-14T10:07:44.000Z] fix: prevent race condition in async buffer queue (#1/10)
 [2026-06-14T11:06:51.000Z] fix: resolve timezone offset discrepancy in scheduler (#2/10)
 [2026-06-14T12:15:49.000Z] chore: bump minor dependency patches and lockfile (#3/10)
+[2026-06-14T13:21:29.000Z] chore: clean up deprecated helper functions (#4/10)
