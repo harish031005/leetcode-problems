@@ -133,3 +133,4 @@
 [2026-06-14T17:41:01.000Z] test: add unit coverage for edge-case parser states (#8/10)
 [2026-06-14T18:42:56.000Z] style: enforce consistent lint formatting across modules (#9/10)
 [2026-06-14T19:48:14.000Z] refactor: decouple configuration loader from runtime core (#10/10)
+[2026-06-15T09:56:31.000Z] refactor: decouple configuration loader from runtime core (#1/12)
