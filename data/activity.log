@@ -145,3 +145,4 @@
 [2026-06-15T18:10:45.000Z] fix: prevent race condition in async buffer queue (#10/12)
 [2026-06-15T19:06:19.000Z] test: expand integration suite for webhook deliveries (#11/12)
 [2026-06-15T20:01:36.000Z] docs: add visual sequence diagrams for authentication flow (#12/12)
+[2026-06-16T09:51:05.000Z] test: add unit coverage for edge-case parser states (#1/12)
