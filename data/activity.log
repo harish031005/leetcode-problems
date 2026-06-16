@@ -149,3 +149,4 @@
 [2026-06-16T10:50:11.000Z] fix: resolve timezone offset discrepancy in scheduler (#2/12)
 [2026-06-16T11:47:11.000Z] test: expand integration suite for webhook deliveries (#3/12)
 [2026-06-16T12:36:13.000Z] docs: clarify deployment environment variable requirements (#4/12)
+[2026-06-16T13:34:31.000Z] docs: clarify deployment environment variable requirements (#5/12)
