@@ -155,3 +155,4 @@
 [2026-06-16T16:20:38.000Z] fix: handle null pointer check in payload serializer (#8/12)
 [2026-06-16T17:15:33.000Z] docs: clarify deployment environment variable requirements (#9/12)
 [2026-06-16T18:10:23.000Z] feat: optimize event bus telemetry and trace logging (#10/12)
+[2026-06-16T19:08:41.000Z] test: expand integration suite for webhook deliveries (#11/12)
