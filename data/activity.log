@@ -176,3 +176,4 @@
 [2026-06-18T16:03:02.000Z] test: expand integration suite for webhook deliveries (#7/11)
 [2026-06-18T16:58:42.000Z] test: expand integration suite for webhook deliveries (#8/11)
 [2026-06-18T17:58:02.000Z] feat: implement adaptive caching layer for remote sync (#9/11)
+[2026-06-18T18:56:19.000Z] chore: clean up deprecated helper functions (#10/11)
