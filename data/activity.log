@@ -185,3 +185,4 @@
 [2026-06-19T14:03:14.000Z] refactor: modularize repository sync orchestrator (#5/11)
 [2026-06-19T14:59:08.000Z] chore: bump minor dependency patches and lockfile (#6/11)
 [2026-06-19T15:57:36.000Z] docs: clarify deployment environment variable requirements (#7/11)
+[2026-06-19T17:00:40.000Z] fix: prevent race condition in async buffer queue (#8/11)
