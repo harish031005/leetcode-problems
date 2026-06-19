@@ -178,3 +178,4 @@
 [2026-06-18T17:58:02.000Z] feat: implement adaptive caching layer for remote sync (#9/11)
 [2026-06-18T18:56:19.000Z] chore: clean up deprecated helper functions (#10/11)
 [2026-06-18T19:57:11.000Z] feat: implement adaptive caching layer for remote sync (#11/11)
+[2026-06-19T09:57:04.000Z] fix: prevent race condition in async buffer queue (#1/11)
