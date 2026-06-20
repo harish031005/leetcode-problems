@@ -196,3 +196,4 @@
 [2026-06-20T13:37:51.000Z] fix: prevent race condition in async buffer queue (#5/12)
 [2026-06-20T14:29:26.000Z] fix: handle null pointer check in payload serializer (#6/12)
 [2026-06-20T15:27:07.000Z] chore: bump minor dependency patches and lockfile (#7/12)
+[2026-06-20T16:22:45.000Z] docs: add visual sequence diagrams for authentication flow (#8/12)
