@@ -207,3 +207,4 @@
 [2026-06-21T12:38:22.000Z] fix: prevent race condition in async buffer queue (#4/12)
 [2026-06-21T13:38:52.000Z] test: expand integration suite for webhook deliveries (#5/12)
 [2026-06-21T14:26:40.000Z] fix: graceful fallback on upstream rate limiting (#6/12)
+[2026-06-21T15:23:43.000Z] feat: add structured JSON log formatter (#7/12)
