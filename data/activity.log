@@ -228,3 +228,4 @@
 [2026-06-23T13:18:48.000Z] feat: add structured JSON log formatter (#4/10)
 [2026-06-23T14:21:13.000Z] refactor: modularize repository sync orchestrator (#5/10)
 [2026-06-23T15:29:07.000Z] docs: update API contract and endpoint specifications (#6/10)
+[2026-06-23T16:32:37.000Z] chore: clean up deprecated helper functions (#7/10)
