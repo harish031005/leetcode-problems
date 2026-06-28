@@ -271,3 +271,4 @@
 [2026-06-28T10:07:43.000Z] feat: optimize event bus telemetry and trace logging (#1/10)
 [2026-06-28T11:13:29.000Z] fix: graceful fallback on upstream rate limiting (#2/10)
 [2026-06-28T12:14:13.000Z] feat: optimize event bus telemetry and trace logging (#3/10)
+[2026-06-28T13:22:02.000Z] fix: prevent race condition in async buffer queue (#4/10)
