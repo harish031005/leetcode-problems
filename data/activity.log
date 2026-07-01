@@ -298,3 +298,4 @@
 [2026-07-01T10:01:36.000Z] feat: add structured JSON log formatter (#1/11)
 [2026-07-01T10:57:12.000Z] refactor: streamline data pipeline transformation logic (#2/11)
 [2026-07-01T11:56:28.000Z] perf: debounce high-frequency state update dispatchers (#3/11)
+[2026-07-01T12:57:54.000Z] docs: clarify deployment environment variable requirements (#4/11)
