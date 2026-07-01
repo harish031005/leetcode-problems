@@ -303,3 +303,4 @@
 [2026-07-01T14:56:59.000Z] fix: handle null pointer check in payload serializer (#6/11)
 [2026-07-01T15:56:31.000Z] fix: handle null pointer check in payload serializer (#7/11)
 [2026-07-01T16:57:08.000Z] fix: graceful fallback on upstream rate limiting (#8/11)
+[2026-07-01T18:00:48.000Z] feat: add structured JSON log formatter (#9/11)
