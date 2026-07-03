@@ -319,3 +319,4 @@
 [2026-07-03T11:24:14.000Z] chore: clean up deprecated helper functions (#2/9)
 [2026-07-03T12:35:27.000Z] fix: prevent race condition in async buffer queue (#3/9)
 [2026-07-03T13:47:27.000Z] fix: graceful fallback on upstream rate limiting (#4/9)
+[2026-07-03T15:02:56.000Z] fix: handle null pointer check in payload serializer (#5/9)
