@@ -335,3 +335,4 @@
 [2026-07-04T17:58:09.000Z] chore: bump minor dependency patches and lockfile (#9/11)
 [2026-07-04T19:01:51.000Z] perf: debounce high-frequency state update dispatchers (#10/11)
 [2026-07-04T19:58:28.000Z] style: enforce consistent lint formatting across modules (#11/11)
+[2026-07-05T10:23:02.000Z] chore: clean up deprecated helper functions (#1/8)
