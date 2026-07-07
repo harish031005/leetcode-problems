@@ -364,3 +364,4 @@
 [2026-07-07T16:34:08.000Z] perf: reduce memory allocation in matrix computation (#7/10)
 [2026-07-07T17:41:35.000Z] docs: add visual sequence diagrams for authentication flow (#8/10)
 [2026-07-07T18:48:16.000Z] feat: optimize event bus telemetry and trace logging (#9/10)
+[2026-07-07T19:52:46.000Z] fix: graceful fallback on upstream rate limiting (#10/10)
