@@ -379,3 +379,4 @@
 [2026-07-09T10:12:04.000Z] chore: bump minor dependency patches and lockfile (#1/9)
 [2026-07-09T11:24:55.000Z] chore: clean up deprecated helper functions (#2/9)
 [2026-07-09T12:32:29.000Z] chore: bump minor dependency patches and lockfile (#3/9)
+[2026-07-09T13:48:25.000Z] fix: graceful fallback on upstream rate limiting (#4/9)
