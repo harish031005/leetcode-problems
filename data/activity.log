@@ -420,3 +420,4 @@
 [2026-07-13T13:31:15.000Z] test: expand integration suite for webhook deliveries (#5/12)
 [2026-07-13T14:33:53.000Z] fix: prevent race condition in async buffer queue (#6/12)
 [2026-07-13T15:26:11.000Z] perf: debounce high-frequency state update dispatchers (#7/12)
+[2026-07-13T16:18:31.000Z] fix: graceful fallback on upstream rate limiting (#8/12)
