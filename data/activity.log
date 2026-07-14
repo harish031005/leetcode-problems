@@ -425,3 +425,4 @@
 [2026-07-13T18:13:53.000Z] perf: debounce high-frequency state update dispatchers (#10/12)
 [2026-07-13T19:03:32.000Z] style: enforce consistent lint formatting across modules (#11/12)
 [2026-07-13T19:56:08.000Z] feat: optimize event bus telemetry and trace logging (#12/12)
+[2026-07-14T09:57:35.000Z] refactor: decouple configuration loader from runtime core (#1/12)
