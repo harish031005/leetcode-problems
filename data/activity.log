@@ -459,3 +459,4 @@
 [2026-07-16T19:03:52.000Z] perf: reduce memory allocation in matrix computation (#10/11)
 [2026-07-16T19:58:59.000Z] chore: clean up deprecated helper functions (#11/11)
 [2026-07-17T10:06:03.000Z] fix: resolve timezone offset discrepancy in scheduler (#1/10)
+[2026-07-17T11:13:21.000Z] test: add unit coverage for edge-case parser states (#2/10)
