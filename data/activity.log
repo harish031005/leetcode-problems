@@ -465,3 +465,4 @@
 [2026-07-17T14:26:24.000Z] docs: clarify deployment environment variable requirements (#5/10)
 [2026-07-17T15:31:13.000Z] docs: add visual sequence diagrams for authentication flow (#6/10)
 [2026-07-17T16:37:11.000Z] test: expand integration suite for webhook deliveries (#7/10)
+[2026-07-17T17:41:46.000Z] perf: index query key lookup table for O(1) retrieval (#8/10)
