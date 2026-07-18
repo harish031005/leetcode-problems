@@ -472,3 +472,4 @@
 [2026-07-18T11:41:49.000Z] docs: clarify deployment environment variable requirements (#2/8)
 [2026-07-18T13:01:06.000Z] fix: handle null pointer check in payload serializer (#3/8)
 [2026-07-18T14:22:04.000Z] feat: optimize event bus telemetry and trace logging (#4/8)
+[2026-07-18T15:42:33.000Z] fix: resolve timezone offset discrepancy in scheduler (#5/8)
