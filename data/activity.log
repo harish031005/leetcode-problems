@@ -526,3 +526,4 @@
 [2026-07-23T19:36:05.000Z] docs: clarify deployment environment variable requirements (#8/8)
 [2026-07-24T09:56:33.000Z] feat: implement adaptive caching layer for remote sync (#1/11)
 [2026-07-24T11:01:17.000Z] test: add unit coverage for edge-case parser states (#2/11)
+[2026-07-24T11:57:23.000Z] fix: prevent race condition in async buffer queue (#3/11)
