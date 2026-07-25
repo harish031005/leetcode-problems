@@ -543,3 +543,4 @@
 [2026-07-25T14:33:36.000Z] perf: reduce memory allocation in matrix computation (#6/12)
 [2026-07-25T15:24:50.000Z] fix: handle null pointer check in payload serializer (#7/12)
 [2026-07-25T16:16:03.000Z] fix: handle null pointer check in payload serializer (#8/12)
+[2026-07-25T17:15:18.000Z] fix: graceful fallback on upstream rate limiting (#9/12)
