@@ -544,3 +544,4 @@
 [2026-07-25T15:24:50.000Z] fix: handle null pointer check in payload serializer (#7/12)
 [2026-07-25T16:16:03.000Z] fix: handle null pointer check in payload serializer (#8/12)
 [2026-07-25T17:15:18.000Z] fix: graceful fallback on upstream rate limiting (#9/12)
+[2026-07-25T18:07:22.000Z] perf: index query key lookup table for O(1) retrieval (#10/12)
