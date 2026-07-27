@@ -562,3 +562,4 @@
 [2026-07-27T13:37:05.000Z] docs: update API contract and endpoint specifications (#5/12)
 [2026-07-27T14:31:11.000Z] test: add unit coverage for edge-case parser states (#6/12)
 [2026-07-27T15:23:54.000Z] refactor: decouple configuration loader from runtime core (#7/12)
+[2026-07-27T16:21:04.000Z] perf: reduce memory allocation in matrix computation (#8/12)
