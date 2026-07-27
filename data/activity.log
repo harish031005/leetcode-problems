@@ -565,3 +565,4 @@
 [2026-07-27T16:21:04.000Z] perf: reduce memory allocation in matrix computation (#8/12)
 [2026-07-27T17:16:47.000Z] fix: graceful fallback on upstream rate limiting (#9/12)
 [2026-07-27T18:11:42.000Z] feat: add structured JSON log formatter (#10/12)
+[2026-07-27T19:06:17.000Z] docs: clarify deployment environment variable requirements (#11/12)
