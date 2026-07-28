@@ -568,3 +568,4 @@
 [2026-07-27T19:06:17.000Z] docs: clarify deployment environment variable requirements (#11/12)
 [2026-07-27T19:56:59.000Z] test: expand integration suite for webhook deliveries (#12/12)
 [2026-07-28T10:19:25.000Z] fix: graceful fallback on upstream rate limiting (#1/8)
+[2026-07-28T11:38:40.000Z] feat: optimize event bus telemetry and trace logging (#2/8)
