@@ -573,3 +573,4 @@
 [2026-07-28T14:19:25.000Z] fix: prevent race condition in async buffer queue (#4/8)
 [2026-07-28T15:42:59.000Z] feat: add structured JSON log formatter (#5/8)
 [2026-07-28T17:00:17.000Z] feat: add structured JSON log formatter (#6/8)
+[2026-07-28T18:21:46.000Z] docs: update API contract and endpoint specifications (#7/8)
