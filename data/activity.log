@@ -595,3 +595,4 @@
 [2026-07-30T18:21:07.000Z] fix: handle null pointer check in payload serializer (#7/8)
 [2026-07-30T19:39:24.000Z] perf: index query key lookup table for O(1) retrieval (#8/8)
 [2026-07-31T10:03:46.000Z] chore: bump minor dependency patches and lockfile (#1/10)
+[2026-07-31T11:12:43.000Z] fix: resolve timezone offset discrepancy in scheduler (#2/10)
