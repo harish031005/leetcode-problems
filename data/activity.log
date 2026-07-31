@@ -601,3 +601,4 @@
 [2026-07-31T14:21:47.000Z] refactor: extract reusable validator utility methods (#5/10)
 [2026-07-31T15:33:47.000Z] docs: update API contract and endpoint specifications (#6/10)
 [2026-07-31T16:31:39.000Z] test: add unit coverage for edge-case parser states (#7/10)
+[2026-07-31T17:40:59.000Z] refactor: decouple configuration loader from runtime core (#8/10)
