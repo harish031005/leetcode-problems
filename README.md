@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/harish031005/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harish031005/leetcode-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/harish031005/leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
+## Array
+|  |
+| ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harish031005/leetcode-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+## String
+|  |
+| ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harish031005/leetcode-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 <!---LeetCode Topics End-->
